@@ -1,2 +1,2 @@
 mkdir /tmp/config
-cp /tmp/config.toml /tmp/config/config.toml
+cp /tmp/src/config.toml /tmp/config/config.toml
